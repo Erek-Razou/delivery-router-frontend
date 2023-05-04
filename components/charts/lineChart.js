@@ -41,14 +41,7 @@ const LineChart = () => {
                         label: "Salary",
                         borderColor: "rgb(0, 217, 255)",
                         fill: true,
-                    },
-                    {
-                        data: chartData.map((data) => data.title),
-                        label: "Profession",
-                        borderColor: "red",
-                        backgroundColor: "rgb(255, 0, 0)",
-                        fill: true,
-                    },
+                    }
                 ],
             }}
         />
