@@ -2,7 +2,7 @@ import React from "react";
 import dynamic from "next/dynamic";
 import BarChart from "../components/charts/barChart";
 import LineChart from "../components/charts/lineChart";
-import Data from "@/components/data";
+import Data from "@/components/dataForLineChart";
 
 // For Charts Doc : https://upmostly.com/tutorials/how-to-use-chart-js-with-react
 

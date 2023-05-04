@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from "react";
 import Chart from "chart.js/auto";
 import { Line } from "react-chartjs-2";
-import {getData} from "../data"
+import {getData} from "../dataForLineChart"
 import {Title} from "chart.js";
 
 //const labels = ["January", "February", "March", "April", "May", "June"];
